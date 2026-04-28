@@ -20,7 +20,7 @@ This is my personal site where I share my work and interests.
 
 ## Projects
 
-Check back soon - I'll be adding projects here as I complete them!
+- [COMP110 Data Analysis: Does Experience Level Affect Perceived Difficulty?](/william/project/)
 
 ## Contact
 
