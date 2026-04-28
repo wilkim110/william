@@ -20,7 +20,7 @@ The analysis began with a scatterplot comparing difficulty and understanding acr
 
 ### Chart 1: Difficulty vs. Understanding by Prior Experience (Scatter Plot)
 
-<img src="/static/imgs/chart_scatter.png" alt="Scatter plot of difficulty vs understanding by prior experience" width="700"/>
+<img src="/william/static/imgs/chart_scatter.png" alt="Scatter plot of difficulty vs understanding by prior experience" width="700"/>
 
 This scatterplot maps each student's reported difficulty on the x-axis and understanding on the y-axis, with color indicating their prior experience group. At a glance, no obvious clustering by experience is visible, which motivates a closer look using box plots that separate the two relationships.
 
@@ -28,7 +28,7 @@ This scatterplot maps each student's reported difficulty on the x-axis and under
 
 ### Chart 2: Prior Experience vs. Perceived Difficulty (Box Plot)
 
-<img src="/static/imgs/chart_box_difficulty.png" alt="Box plot of prior experience vs difficulty" width="700"/>
+<img src="/william/static/imgs/chart_box_difficulty.png" alt="Box plot of prior experience vs difficulty" width="700"/>
 
 This box plot reveals a clear inverse relationship between prior programming experience and perceived course difficulty. Students with no experience report a median difficulty of around 4, while those with 2+ years of experience report a median near 2. The boxes also tighten at higher experience levels, showing that experienced students agree more consistently that the course feels manageable.
 
@@ -36,7 +36,7 @@ This box plot reveals a clear inverse relationship between prior programming exp
 
 ### Chart 3: Prior Experience vs. Perceived Understanding (Box Plot)
 
-<img src="/static/imgs/chart_box_understanding.png" alt="Box plot of prior experience vs understanding" width="700"/>
+<img src="/william/static/imgs/chart_box_understanding.png" alt="Box plot of prior experience vs understanding" width="700"/>
 
 This box plot shows a similar trend for understanding: students with more experience tend to report higher comprehension of the material. The spread is wider across groups compared to the difficulty chart, suggesting that understanding is influenced by more factors than experience alone.
 
