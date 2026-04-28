@@ -23,8 +23,8 @@ email: willkim@unc.edu
 description: >-
   Personal site for William Kim. I am a student, developer, and curious mind.
 baseurl: "/william" # the subpath of your site, e.g. /blog
-url: "https://github-willkim110.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: github-willkim110
+url: "https://wilkim110.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: wilkim110
 
 # Build settings
 # Build settings
