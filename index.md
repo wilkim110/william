@@ -20,8 +20,8 @@ This is my personal site where I share my work and interests.
 
 ## Projects
 
-Check back soon — I'll be adding projects here as I complete them!
+Check back soon - I'll be adding projects here as I complete them!
 
 ## Contact
 
-Feel free to reach out at [sunny8kim@gmail.com](mailto:sunny8kim@gmail.com).
+Feel free to reach out at [willkim@unc.edu]
